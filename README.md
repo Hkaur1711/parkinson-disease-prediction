@@ -44,6 +44,8 @@ Features and labels from the dataset are extracted.The features are all the colu
 
 The code below prints thie count of labels
 
+![count](./count.PNG)
+
 The count of labels is also depicted using a pie chart
 
 <img src="./pie_chart.png" alt="pie-chart" style="zoom:150%;" />
